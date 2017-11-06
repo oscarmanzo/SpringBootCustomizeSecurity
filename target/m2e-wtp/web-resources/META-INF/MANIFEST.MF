@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootCustomizeSecurityAuthenticationProvide
+ r
+Implementation-Version: 0.0.1
+Built-By: oscar
+Implementation-Vendor-Id: com.javasampleapproach.security.customizeaut
+ henticationprovider
+Build-Jdk: 1.8.0_25
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ starter-parent/SpringBootCustomizeSecurityAuthenticationProvider/
+Created-By: Maven Integration for Eclipse
+Main-Class: com.javasampleapproach.customizeauthenticationprovider.Spr
+ ingSecurityCustomizeAuthProviderApp
+
